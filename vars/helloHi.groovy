@@ -1,3 +1,3 @@
 def call(Map config = [:]){
-  sh 'date'
+  sh 'ls'
 }
